@@ -1,4 +1,4 @@
-# File:   Scatterplots.R
+# File:   06_scatter_plots.R
 # Course: R: An Introduction (with RStudio)
 
 # LOAD DATASETS PACKAGES ###################################

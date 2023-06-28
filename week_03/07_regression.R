@@ -1,4 +1,4 @@
-# File:   Regression.R
+# File:   06_regression.R
 # Course: R: An Introduction (with RStudio)
 
 # INSTALL AND LOAD PACKAGES ################################

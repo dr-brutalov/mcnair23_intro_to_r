@@ -1,9 +1,5 @@
-# File:    R01_6_2_PrincipalComponents.R
-# Course:  R01: R: An introduction
-# Chapter: 6: Modeling data
-# Section: 2: Principal components
-# Author:  Barton Poulson, datalab.cc, @bartonpoulson
-# Date:    2016-08-04
+# File:    06_principal_components.R
+# Course:  Course: R: An Introduction (with RStudio)
 
 # INSTALL AND LOAD PACKAGES ################################
 

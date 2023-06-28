@@ -1,4 +1,4 @@
-# File:   BarCharts.R
+# File:   04_bar_charts.R
 # Course: R: An Introduction (with RStudio)
 
 # LOAD DATASETS PACKAGES ###################################

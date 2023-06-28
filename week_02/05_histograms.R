@@ -1,4 +1,4 @@
-# File:   Histograms.R
+# File:   05_histograms.R
 # Course: R: An Introduction (with RStudio)
 
 # LOAD PACKAGES ############################################

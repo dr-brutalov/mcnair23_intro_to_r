@@ -1,4 +1,4 @@
-# File:   OverlayingPlots.R
+# File:   07_overlaying_plots.R
 # Course: R: An Introduction (with RStudio)
 
 # INSTALL AND LOAD PACKAGES ################################

@@ -1,4 +1,4 @@
-# File:   DataFormats.R
+# File:   01_data_formats.R
 # Course: R: An Introduction (with RStudio)
 
 # DATA TYPES ###############################################

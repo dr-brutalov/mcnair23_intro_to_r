@@ -1,4 +1,4 @@
-# File:   Plot.R
+# File:   03_plotting.R
 # Course: R: An Introduction (with RStudio)
 
 # LOAD DATASETS PACKAGES ###################################

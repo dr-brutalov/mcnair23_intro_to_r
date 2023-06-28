@@ -1,4 +1,4 @@
-# File:   Factors.R
+# File:   02_factors.R
 # Course: R: An Introduction (with RStudio)
 
 # CREATE DATA ##############################################

@@ -1,4 +1,4 @@
-# File:   Packages.R
+# File:   02_packages.R
 # Course: R: An Introduction (with RStudio)
 
 # CRAN: https://cran.r-project.org/

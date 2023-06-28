@@ -1,4 +1,4 @@
-# File:   RStudio.R
+# File:   00_installing_r.R
 # Course: R: An Introduction (with RStudio)
 
 # LOAD DATA ################################################
@@ -20,6 +20,5 @@ detach("package:datasets", unload = TRUE)  # For base
 dev.off()  # But only if there IS a plot
 
 # Clear console
-cat("\014")  # ctrl+L
 
 # Clear mind :)

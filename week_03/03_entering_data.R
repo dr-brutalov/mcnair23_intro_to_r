@@ -1,4 +1,4 @@
-# File:   EnteringData.R
+# File:   03_entering_data.R
 # Course: R: An Introduction (with RStudio)
 
 # COLON OPERATOR ###########################################

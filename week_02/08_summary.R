@@ -1,4 +1,4 @@
-# File:   Summary.R
+# File:   08_summary.R
 # Course: R: An Introduction (with RStudio)
 
 # INSTALL AND LOAD PACKAGES ################################

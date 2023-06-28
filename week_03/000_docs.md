@@ -1,4 +1,6 @@
-# Week Two Overview
+# Week Three Overview
+
+This week is a continuation of the content from the previous week. As such, the R files and data used are sourced from the same places as before.
 
 The majority of files for this week were provided by `freeCodeCamp.org`. Their walkthrough is available on [YouTube](https://youtu.be/_V8eKsto3Ug). Edits to this content were made as needed to better fit the course needs.
 

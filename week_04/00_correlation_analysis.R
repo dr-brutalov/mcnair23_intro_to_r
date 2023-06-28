@@ -1,4 +1,4 @@
-# File:   correlation_analysis.R
+# File:   00_correlation_analysis.R
 # Course: R: An Introduction (with RStudio)
 
 # Setup ################################################

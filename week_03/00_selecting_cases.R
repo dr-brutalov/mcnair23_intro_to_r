@@ -1,4 +1,4 @@
-# File:   SelectingCases.R
+# File:   00_selecting_cases.R
 # Course: R: An Introduction (with RStudio)
 
 # INSTALL AND LOAD PACKAGES ################################

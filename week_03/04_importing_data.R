@@ -1,4 +1,4 @@
-# File:   ImportingData.R
+# File:   04_importing_data.R
 # Course: R: An Introduction (with RStudio)
 
 # INSTALL AND LOAD PACKAGES ################################

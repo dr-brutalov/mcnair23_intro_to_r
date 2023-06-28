@@ -1,4 +1,4 @@
-# File:   HierarchicalClustering.R
+# File:   05_hierarchical_clustering.R
 # Course: R: An Introduction (with RStudio)
 
 # INSTALL AND LOAD PACKAGES ################################
